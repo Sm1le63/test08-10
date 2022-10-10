@@ -11,4 +11,4 @@
 
 ТЕСТ new-vetka
 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fcodernet.ru%2Farticles%2Fweb%2Fkak_v_git_uznat_repozitorij_podrobnaya_instrukcziya%2F&psig=AOvVaw1ACMCw5XB2npHbMnbzfdJf&ust=1665485833384000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCIi1jY7b1foCFQAAAAAdAAAAABAJ
+file:///C:/Users/%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C/Desktop/git.webp
